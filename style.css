@@ -62,7 +62,7 @@ ul {
     background-color: #d88d1d;
   }
 
-  @media screen and (max-width: 616px) {
+  @media screen and (max-width: 850px) {
     header {
       background: #edcf25;
       display: block;
